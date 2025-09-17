@@ -1,22 +1,58 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="pt-BR">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
-  <title>Questão</title>
-  <link rel="stylesheet" href="css/style.css"/>
+  <meta charset="UTF-8">
+  <title>Questão 1 - Petrobras 2023 - Administrador</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:700,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <header>
-    <h1>Questão da Prova</h1>
+    <h1>Provas Petrobras</h1>
     <nav>
       <a href="index.html">Início</a>
-      <a href="provas.html">Provas por Ano</a>
-      <a href="provas.html?por=cargo">Provas por Cargo</a>
-      <a href="#" id="buscar-link">Buscar Questão</a>
+      <a href="#">Sobre</a>
     </nav>
   </header>
-  <div class="container" id="quiz-container"></div>
-  <script src="js/questao.js"></script>
+  <main>
+    <section class="questao">
+      <h2>Questão 1</h2>
+      <p class="enunciado">
+        (Petrobras 2023 - Administrador) Exemplo de enunciado da questão. Qual a alternativa correta?
+      </p>
+      <ol class="alternativas" type="A">
+        <li>Alternativa A</li>
+        <li>Alternativa B</li>
+        <li>Alternativa C</li>
+        <li>Alternativa D</li>
+        <li>Alternativa E</li>
+      </ol>
+      <button class="responder">Responder</button>
+    </section>
+    <section class="comentarios">
+      <h3>Comentários</h3>
+      <!-- Giscus começa aqui -->
+      <script src="https://giscus.app/client.js"
+        data-repo="guririu/petrobras"
+        data-repo-id="COLOQUE_SEU_REPO_ID"
+        data-category="General"
+        data-category-id="COLOQUE_SEU_CATEGORY_ID"
+        data-mapping="title"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="light"
+        data-lang="pt"
+        crossorigin="anonymous"
+        async>
+      </script>
+      <!-- Giscus termina aqui -->
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2025 - Simulados Petrobras | Layout por guririu</p>
+  </footer>
 </body>
 </html>
