@@ -1,0 +1,47 @@
+[
+  {
+    "id": "petrobras2023_engenheiro_1",
+    "provaId": "petrobras2023_engenheiro",
+    "numero": 1,
+    "enunciado": "Qual é a capital do Brasil?",
+    "alternativas": [
+      "A) Rio de Janeiro",
+      "B) Brasília",
+      "C) São Paulo",
+      "D) Salvador",
+      "E) Belo Horizonte"
+    ],
+    "resposta": 1,
+    "palavrasChave": ["geografia", "básico", "brasil"]
+  },
+  {
+    "id": "petrobras2023_engenheiro_2",
+    "provaId": "petrobras2023_engenheiro",
+    "numero": 2,
+    "enunciado": "O que é a Lei de Ohm?",
+    "alternativas": [
+      "A) Relação entre força e aceleração",
+      "B) Propriedade dos gases ideais",
+      "C) Relação entre tensão, corrente e resistência",
+      "D) Método de cálculo de área",
+      "E) Fenômeno óptico"
+    ],
+    "resposta": 2,
+    "palavrasChave": ["física", "eletricidade", "engenharia"]
+  },
+  {
+    "id": "transpetro2022_analista_1",
+    "provaId": "transpetro2022_analista",
+    "numero": 1,
+    "enunciado": "Qual a função principal do petróleo na economia brasileira?",
+    "alternativas": [
+      "A) Matéria-prima para medicamentos",
+      "B) Fonte de energia e exportação",
+      "C) Fertilizante agrícola",
+      "D) Ingrediente alimentar",
+      "E) Uso exclusivo em plásticos"
+    ],
+    "resposta": 1,
+    "palavrasChave": ["petrobras", "economia", "petróleo"]
+  }
+]
