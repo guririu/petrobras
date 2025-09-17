@@ -1,47 +1,31 @@
 [
   {
-    "id": "petrobras2023_engenheiro_1",
-    "provaId": "petrobras2023_engenheiro",
+    "id": 1,
+    "prova_id": "petrobras-2023-administrador",
     "numero": 1,
-    "enunciado": "Qual é a capital do Brasil?",
+    "enunciado": "Sobre gestão de projetos, assinale a alternativa correta.",
     "alternativas": [
-      "A) Rio de Janeiro",
-      "B) Brasília",
-      "C) São Paulo",
-      "D) Salvador",
-      "E) Belo Horizonte"
+      "A) O escopo nunca pode ser alterado após o início do projeto.",
+      "B) O cronograma é desnecessário em projetos ágeis.",
+      "C) A matriz de responsabilidades é usada para delegar tarefas.",
+      "D) Nenhuma documentação é exigida em projetos Scrum.",
+      "E) O patrocinador não influencia decisões do projeto."
     ],
-    "resposta": 1,
-    "palavrasChave": ["geografia", "básico", "brasil"]
+    "resposta": "C"
   },
   {
-    "id": "petrobras2023_engenheiro_2",
-    "provaId": "petrobras2023_engenheiro",
+    "id": 2,
+    "prova_id": "petrobras-2023-administrador",
     "numero": 2,
-    "enunciado": "O que é a Lei de Ohm?",
+    "enunciado": "O planejamento estratégico é caracterizado por:",
     "alternativas": [
-      "A) Relação entre força e aceleração",
-      "B) Propriedade dos gases ideais",
-      "C) Relação entre tensão, corrente e resistência",
-      "D) Método de cálculo de área",
-      "E) Fenômeno óptico"
+      "A) Foco em operações diárias.",
+      "B) Horizonte de longo prazo.",
+      "C) Exclusividade do setor financeiro.",
+      "D) Não requer análise de ambiente externo.",
+      "E) É imutável após aprovado."
     ],
-    "resposta": 2,
-    "palavrasChave": ["física", "eletricidade", "engenharia"]
-  },
-  {
-    "id": "transpetro2022_analista_1",
-    "provaId": "transpetro2022_analista",
-    "numero": 1,
-    "enunciado": "Qual a função principal do petróleo na economia brasileira?",
-    "alternativas": [
-      "A) Matéria-prima para medicamentos",
-      "B) Fonte de energia e exportação",
-      "C) Fertilizante agrícola",
-      "D) Ingrediente alimentar",
-      "E) Uso exclusivo em plásticos"
-    ],
-    "resposta": 1,
-    "palavrasChave": ["petrobras", "economia", "petróleo"]
+    "resposta": "B"
   }
+  // ... continue para todas as questões extraídas
 ]
