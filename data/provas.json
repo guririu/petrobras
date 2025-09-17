@@ -1,23 +1,18 @@
 [
   {
-    "id": "petrobras2023_engenheiro",
+    "id": "petrobras-2023-administrador",
+    "cargo": "Administrador",
     "ano": 2023,
-    "cargo": "Engenheiro",
     "banca": "Cesgranrio",
-    "titulo": "Petrobras 2023 - Engenheiro",
-    "questoes": [
-      "petrobras2023_engenheiro_1",
-      "petrobras2023_engenheiro_2"
-    ]
+    "arquivo": "prova1.pdf",
+    "questoes": [1,2,3,4,5,6,7,8,9,10]
   },
   {
-    "id": "transpetro2022_analista",
-    "ano": 2022,
-    "cargo": "Analista",
+    "id": "petrobras-2023-engenheiro",
+    "cargo": "Engenheiro",
+    "ano": 2023,
     "banca": "Cesgranrio",
-    "titulo": "Transpetro 2022 - Analista",
-    "questoes": [
-      "transpetro2022_analista_1"
-    ]
+    "arquivo": "prova2.pdf",
+    "questoes": [11,12,13,14,15,16,17,18,19,20]
   }
 ]
